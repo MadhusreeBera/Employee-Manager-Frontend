@@ -2,7 +2,7 @@
 # Deployed at 
 https://epic-bardeen-a6c462.netlify.app/
 
-#Simple React-Node-Express-MySQL CRUD application
+## Simple React-Node-Express-MySQL CRUD application
 
 # Getting Started with Create React App
 

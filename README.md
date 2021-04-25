@@ -1,3 +1,9 @@
+
+# Deployed at 
+https://epic-bardeen-a6c462.netlify.app/
+
+#Simple React-Node-Express-MySQL CRUD application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
